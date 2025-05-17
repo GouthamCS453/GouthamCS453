@@ -7,7 +7,7 @@ I am currently pursuing Computer Science and Engineering.<br>I am on the path of
 <a href="https://instagram.com/g_c_s_453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_c_s_453" height="30" width="40" /></a> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouthamcs453@gmail.com)
 </p>
 
-<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GouthamCS453&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
